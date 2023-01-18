@@ -1,0 +1,11 @@
+h1 {
+    font-style: oblique;
+    color: lavender;
+}
+
+img{
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 30px;
+}
+ 
